@@ -25,6 +25,7 @@ namespace ConsoleApp1
             currentState = DoorState.Closed;
         }
 
+        // JANGAN LUPA UNTUK ALUR NYA 
         public void Open()
         {
             if (currentState == DoorState.Closed)
