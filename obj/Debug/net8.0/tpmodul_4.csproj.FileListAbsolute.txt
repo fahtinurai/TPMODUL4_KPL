@@ -1,0 +1,15 @@
+E:\FATHIA DOC SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\PRAKTIKUM\TP\tpmodul_4\tpmodul_4\bin\Debug\net8.0\tpmodul_4.exe
+E:\FATHIA DOC SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\PRAKTIKUM\TP\tpmodul_4\tpmodul_4\bin\Debug\net8.0\tpmodul_4.deps.json
+E:\FATHIA DOC SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\PRAKTIKUM\TP\tpmodul_4\tpmodul_4\bin\Debug\net8.0\tpmodul_4.runtimeconfig.json
+E:\FATHIA DOC SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\PRAKTIKUM\TP\tpmodul_4\tpmodul_4\bin\Debug\net8.0\tpmodul_4.dll
+E:\FATHIA DOC SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\PRAKTIKUM\TP\tpmodul_4\tpmodul_4\bin\Debug\net8.0\tpmodul_4.pdb
+E:\FATHIA DOC SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\PRAKTIKUM\TP\tpmodul_4\tpmodul_4\obj\Debug\net8.0\tpmodul_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\FATHIA DOC SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\PRAKTIKUM\TP\tpmodul_4\tpmodul_4\obj\Debug\net8.0\tpmodul_4.AssemblyInfoInputs.cache
+E:\FATHIA DOC SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\PRAKTIKUM\TP\tpmodul_4\tpmodul_4\obj\Debug\net8.0\tpmodul_4.AssemblyInfo.cs
+E:\FATHIA DOC SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\PRAKTIKUM\TP\tpmodul_4\tpmodul_4\obj\Debug\net8.0\tpmodul_4.csproj.CoreCompileInputs.cache
+E:\FATHIA DOC SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\PRAKTIKUM\TP\tpmodul_4\tpmodul_4\obj\Debug\net8.0\tpmodul_4.dll
+E:\FATHIA DOC SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\PRAKTIKUM\TP\tpmodul_4\tpmodul_4\obj\Debug\net8.0\refint\tpmodul_4.dll
+E:\FATHIA DOC SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\PRAKTIKUM\TP\tpmodul_4\tpmodul_4\obj\Debug\net8.0\tpmodul_4.pdb
+E:\FATHIA DOC SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\PRAKTIKUM\TP\tpmodul_4\tpmodul_4\obj\Debug\net8.0\tpmodul_4.genruntimeconfig.cache
+E:\FATHIA DOC SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\PRAKTIKUM\TP\tpmodul_4\tpmodul_4\obj\Debug\net8.0\ref\tpmodul_4.dll
+E:\FATHIA DOC SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\PRAKTIKUM\TP\tpmodul_4\tpmodul_4\obj\Debug\net8.0\tpmodul_4.sourcelink.json
